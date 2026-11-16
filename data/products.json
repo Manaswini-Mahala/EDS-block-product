@@ -1,0 +1,18 @@
+[
+  {
+    "id": "P001",
+    "name": "Pro Laptop",
+    "brand": "TechPro",
+    "category": "Laptop",
+    "price": 75000,
+    "rating": 4.5,
+    "availability": true,
+    "image": "/images/pro-laptop.webp",
+    "description": "High-performance laptop for developers.",
+    "specifications": {
+      "processor": "Intel i7",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    }
+  }
+]
